@@ -1,0 +1,3 @@
+/Users/namansharma/Desktop/Adv Project CSA/NTT/homomorphic-encryption/src/f-ntt/build/CMakeFiles/ntt_implementation.dir
+/Users/namansharma/Desktop/Adv Project CSA/NTT/homomorphic-encryption/src/f-ntt/build/CMakeFiles/edit_cache.dir
+/Users/namansharma/Desktop/Adv Project CSA/NTT/homomorphic-encryption/src/f-ntt/build/CMakeFiles/rebuild_cache.dir
